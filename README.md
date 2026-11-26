@@ -64,7 +64,7 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-HackerTube AI is a free, independent community‑curated video archive inspired by Hacker News. It offers searchable collections of programming, artificial intelligence, mathematics, science, engineering, design and learning videos, aggregating over 6,000 videos across 150 topics from 2007‑2026.
+HackerTube AI is a free, independent community‑curated video archive inspired by Hacker News. It offers searchable collections of programming, artificial intelligence, mathematics, science, engineering, design and learning videos, aggregating over 6,000 videos across 150 topics from 2007‑2026. The platform provides a discovery experience with curated learning paths, topic browsing, and direct links to original discussions, serving researchers, developers, and enthusiasts seeking high‑quality technical content.
 
 **Areas:** Video · Community · Curated · Programming · AI · Science
 
@@ -80,19 +80,20 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Hacker Tube Domain Security](https://apis.io/security/hacker-tube/hacker-tube-domain-security/)
+- [HackerTube AI Domain Security](https://apis.io/security/hacker-tube/hacker-tube-domain-security/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://hacker-tube.com)
+- [Documentation](https://hacker-tube.com/guide)
 - [Terms of service](https://hacker-tube.com/terms-of-service)
 - [Privacy policy](https://hacker-tube.com/privacy-policy)
 
 ## API Evangelist rating
 
-**Kin Score 11.3** — emerging · rubric 0.27.0 · scored 2026-11-08
+**Kin Score 11.1** — emerging · rubric 0.28.0 · scored 2026-11-25
 
 | Facet | Score |
 |---|---|
@@ -100,8 +101,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 34.2 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 27.7 |
 
 **Agent readiness 3.1** — human-only
 
@@ -130,7 +131,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hacker-tube/](https://apis.io/providers/hacker-tube/).
 
